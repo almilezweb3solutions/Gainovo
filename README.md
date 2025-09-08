@@ -9,9 +9,13 @@ Token principal del ecosistema Gainovo que representa derechos sobre una estrate
 Características de Seguridad:
 
 ✅ Sistema Multi-Firma: Mínimo 3 propietarios, aprobación por consenso (2/3)
+
 ✅ Lista Blanca/Negra: Control de direcciones autorizadas/bloqueadas
+
 ✅ Mecanismo de Pausa: Congelación inmediata de transferencias por situacion critica de seguridad
+
 ✅ Rol de Emergencia: Respuesta rápida a situaciones críticas
+
 ✅ EIP-2612 Permit: Transacciones sin gas para mejor UX
 
 
@@ -37,8 +41,11 @@ Token especializado para trading y arbitraje en exchanges descentralizados.
 Características Únicas:
 
 ✅ Supply Fijo: 5,000,000 tokens máximo
+
 ✅ Re-minting Controlado: Solo posible si se han quemado tokens previamente
+
 ✅ Optimizado para DEXs: Compatibilidad con Uniswap, Sushiswap, etc.
+
 ✅ Mismas Garantías de Seguridad: Multi-firma, listas, pausa de emergencia
 
 
@@ -56,8 +63,11 @@ Sistema de distribución masiva para entregas simultáneas de tokens comprados y
 Funcionalidades:
 
 ✅ Distribución Simultánea: Múltiples tokens en una transacción
+
 ✅ Gestión de Tres Assets: Token primario, token secundario y ETH
+
 ✅ Sistema Multi-Firma: Mismas garantías de seguridad
+
 ✅ Protección contra Reentrancy
 
 
@@ -109,8 +119,11 @@ Acceso limitado y altamente auditado
 Protección de Fondos para Usuarios:
 
 ✅ Recuperación de cuentas comprometidas
+
 ✅ Restauración de acceso por pérdida de claves
-✅ Protección contra hackeos y phishing
+
+✅ Protección contra hackeos y phishin
+
 ✅ Proceso verificado con múltiples factores de autenticación
 
 
@@ -147,9 +160,13 @@ Pagos simultáneos a múltiples destinatarios
 Todos los contratos incluyen:
 
 ✅ Modifiers de acceso: soloPropietario, soloGestor, soloEmergencia
+
 ✅ Validación de entradas: Verificación de direcciones y montos
+
 ✅ Eventos de auditoría: Tracking completo de todas las operaciones
+
 ✅ Protección contra reentrancy: Imposibilidad de ataques recursivos
+
 ✅ Manejo seguro de errores: Revertimientos claros y específicos
 
 
