@@ -129,9 +129,14 @@ Protección de Fondos para Usuarios:
 
 Cómo Funciona:
 
+1-Verificacion Facial
+
 1-Usuario bloquea billetera con boton de emergencia irreversible
+
 2-Se crea nueva billetera Gainovo
+
 3-Reporta incidente 
+
 4-Transferencia segura de fondos a nueva dirección dentro de las proximas 72hs
 
 ////////////////////////////////////////////////////////////////////////////////
